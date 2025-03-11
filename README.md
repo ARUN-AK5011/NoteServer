@@ -1,18 +1,3 @@
----
-
-## **✅ Backend (`server/README.md`)**
-This README includes:  
-- 📜 **Project Overview**  
-- 🛠️ **Requirements**  
-- ⚙️ **Setup Instructions**  
-- 📂 **API Endpoints**  
-
-```md
-# 📝 Notes Application - Backend (Django + MongoDB)
-
-Welcome to the **Notes Application** backend! This is a REST API built using **Django REST Framework** and **MongoDB**.
-
----
 
 ## 📜 **Project Overview**
 
@@ -38,7 +23,7 @@ Ensure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/notes-app.git
+git clone https://github.com/ARUN-AK5011/NoteServer.git
 cd notes-app/server
 ```
 
